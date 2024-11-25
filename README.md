@@ -61,7 +61,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-I am getting better at making site responsive. 
+I am getting better at making site responsive. Only did the desktop version not mobile. Interactive element was not done becuase I wasnt aware. Will be thorough on next challenge. 
 
 ### Useful resources
 
